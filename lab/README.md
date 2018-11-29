@@ -8,10 +8,3 @@ SPFx Extension que permite chatear con un bot desde cualquier página de sharepo
 npm install
 ```
 
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
