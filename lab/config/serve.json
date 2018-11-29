@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://ferranchopomct.sharepoint.com/sites/DevSite/SitePages/About-me.aspx",
+      "pageUrl": "https://tutenant.sharepoint.com/sites/DevSite/SitePages/Home.aspx",
       "customActions": {
         "5c15e79f-b964-4556-b744-ab6af8a002ec": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "qnAChat": {
-      "pageUrl": "https://ferranchopomct.sharepoint.com/sites/DevSite/SitePages/About-me.aspx",
+      "pageUrl": "https://tutenant.sharepoint.com/sites/DevSite/SitePages/Home.aspx",
       "customActions": {
         "5c15e79f-b964-4556-b744-ab6af8a002ec": {
           "location": "ClientSideExtension.ApplicationCustomizer",
