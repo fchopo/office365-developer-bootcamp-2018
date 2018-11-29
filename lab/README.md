@@ -1,21 +1,12 @@
 ## qna-chat
 
-This is where you include your WebPart documentation.
+SPFx Extension que permite chatear con un bot desde cualquier página de sharepoint.
 
-### Building the code
+### Antes de ejecutar el código, instalar los módulos npm
 
 ```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
+npm install
 ```
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
 
 ### Build options
 
