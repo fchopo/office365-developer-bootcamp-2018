@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://ferranchopomct.sharepoint.com/sites/DevSite/SitePages/About-me.aspx",
+      "customActions": {
+        "5c15e79f-b964-4556-b744-ab6af8a002ec": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "qnAChat": {
+      "pageUrl": "https://ferranchopomct.sharepoint.com/sites/DevSite/SitePages/About-me.aspx",
+      "customActions": {
+        "5c15e79f-b964-4556-b744-ab6af8a002ec": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

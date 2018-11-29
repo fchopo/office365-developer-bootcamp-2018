@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="QnAChat"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="5c15e79f-b964-4556-b744-ab6af8a002ec"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
